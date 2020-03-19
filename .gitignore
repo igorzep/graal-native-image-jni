@@ -1,0 +1,10 @@
+/bin/
+.classpath
+.java-version
+.project
+helloworld
+HelloWorld.h
+HelloWorld.class
+HelloWorld.jar
+reports
+libHelloWorld.dylib
